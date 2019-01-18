@@ -27,6 +27,4 @@ yarn run watch
 
 ## Thoughts
 
-Random thoughts might come across to you during the implementation:
-
-- Follow your heart and compiler; rust compiler shows informative error messages.
+- Rust compiler shows informative error messages
